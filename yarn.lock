@@ -258,7 +258,7 @@
 
 "@types/node@6.0.41":
   version "6.0.41"
-  resolved "http://registry.npmjs.org/@types/node/-/node-6.0.41.tgz#578cf53aaec65887bcaf16792f8722932e8ff8ea"
+  resolved "https://registry.npmjs.org/@types/node/-/node-6.0.41.tgz#578cf53aaec65887bcaf16792f8722932e8ff8ea"
 
 "@types/oauth@*":
   version "0.9.1"
@@ -5602,17 +5602,10 @@ lodash.merge@^4.6.0:
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.0.tgz#69884ba144ac33fe699737a6086deffadd0f89c5"
 
-lodash@^4.12.0, lodash@^4.17.1:
-  version "4.17.11"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
-
-lodash@^4.13.1, lodash@^4.17.10, lodash@^4.17.2, lodash@^4.17.3, lodash@^4.17.5, lodash@^4.2.0, lodash@^4.3.0:
-  version "4.17.10"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
-
-lodash@^4.14.0, lodash@^4.17.4, lodash@~4.17.2:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+lodash@^4.12.0, lodash@^4.13.1, lodash@^4.14.0, lodash@^4.17.1, lodash@^4.17.10, lodash@^4.17.2, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.2.0, lodash@^4.3.0, lodash@~4.17.2:
+  version "4.17.15"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
+  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
 log-symbols@^1.0.2:
   version "1.0.2"
@@ -7862,7 +7855,7 @@ semver-diff@^2.0.0:
 
 semver@4.3.2:
   version "4.3.2"
-  resolved "http://registry.npmjs.org/semver/-/semver-4.3.2.tgz#c7a07158a80bedd052355b770d82d6640f803be7"
+  resolved "https://registry.npmjs.org/semver/-/semver-4.3.2.tgz#c7a07158a80bedd052355b770d82d6640f803be7"
 
 semver@^5.0.1:
   version "5.6.0"
